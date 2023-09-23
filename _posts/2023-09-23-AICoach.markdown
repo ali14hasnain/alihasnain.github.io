@@ -1,15 +1,12 @@
 ---
-title: CoachAI
+title: CoachAI 🚀
 date: 2023-09-22T10:00:00-0400
 categories: [Projects, Python]
-tags: [Python]
+tags: [Python, GitHub, OpenAI, API]
 author: <author_id>   # TAG names should always be lowercase
 ---
 
-# [COACH AI](https://github.com/ali14hasnain/AICoach) 🚀
-
-
-## What is AI Writing Coach?
+## What is [COACH AI](https://github.com/ali14hasnain/AICoach)?
 
 The AI Writing Coach is a powerful tool that harnesses the capabilities of natural language processing and the OpenAI GPT-3 API. It's designed to provide valuable feedback and suggestions for improving your written content. Whether you're a student working on essays, a professional crafting reports, or a content creator striving for perfection, our AI Writing Coach is your trusted companion.
 
@@ -61,7 +58,7 @@ To get started with AI Writing Coach, follow these simple steps:
 
 
 
-### Start Enhancing Your Writing Today!
+## Start Enhancing Your Writing Today!
 Don't let writing challenges hold you back. With AI Writing Coach, you have a dedicated writing assistant at your fingertips. Say goodbye to grammar mistakes, unclear sentences, and uninspiring content. Start creating content that leaves a lasting impression!
 
 Ready to improve your writing? Visit my [AI Writing Coach Repository](https://github.com/ali14hasnain/AICoach) at Github to learn more and get started.
