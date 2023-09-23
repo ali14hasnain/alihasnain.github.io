@@ -1,0 +1,69 @@
+---
+title: CoachAI
+date: 2023-09-22T10:00:00-0400
+categories: [Projects, Python]
+tags: [Python]
+author: <author_id>   # TAG names should always be lowercase
+---
+
+# [COACH AI](https://github.com/ali14hasnain/AICoach) 🚀
+
+
+## What is AI Writing Coach?
+
+The AI Writing Coach is a powerful tool that harnesses the capabilities of natural language processing and the OpenAI GPT-3 API. It's designed to provide valuable feedback and suggestions for improving your written content. Whether you're a student working on essays, a professional crafting reports, or a content creator striving for perfection, our AI Writing Coach is your trusted companion.
+
+## Features
+
+- **Text Tokenization and Preprocessing:** Our AI can break down your text into meaningful tokens, enhancing the understanding of your content.
+
+- **Sentiment Analysis:** Understand the emotional tone of your writing and make adjustments as needed.
+
+- **Grammar Checking:** Get real-time grammar suggestions to eliminate pesky errors.
+
+- **Readability Assessment:** Ensure your content is easy to understand for your target audience.
+
+- **Content Improvement Suggestions:** Receive recommendations for making your content more engaging and impactful.
+
+## Getting Started
+
+To get started with AI Writing Coach, follow these simple steps:
+
+1. **Clone this Repository:**
+   ```bash
+   git clone https://github.com/ali14hasnain/AICoach.git\
+
+   cd ai-writing-coach
+   ```
+2. **Create and Activate a Virtual Environment (Optional but Recommended):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  
+   ```
+    3.**Install Dependencies:** 
+     ```bash
+    pip install -r requirements.txt
+     ```
+    4.**Set up Your OpenAI API Key:**
+
+    Create a **.env** file in the project root directory and add your OpenAI API key:
+    ```bash
+    OPENAI_API_KEY=your_api_key_here
+     ```
+
+    5.**Run the Application**
+     ```bash
+     python app.py
+     ```
+    
+
+    
+  
+
+
+### Start Enhancing Your Writing Today!
+Don't let writing challenges hold you back. With AI Writing Coach, you have a dedicated writing assistant at your fingertips. Say goodbye to grammar mistakes, unclear sentences, and uninspiring content. Start creating content that leaves a lasting impression!
+
+Ready to improve your writing? Visit my [AI Writing Coach Repository](https://github.com/ali14hasnain/AICoach) at Github to learn more and get started.
+
+Happy writing, and remember, excellence is just a click away! 📝✨
