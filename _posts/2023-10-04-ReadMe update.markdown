@@ -1,5 +1,5 @@
 ---
-title: 🌟 Github Profile Update
+title: Github Profile Update 🌟
 date: 2023-09-22T10:00:00-0400
 categories: [Portfolio]
 tags: [Markdown]
