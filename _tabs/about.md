@@ -6,7 +6,7 @@ order: 1
 
 ```javascript
 class Muhammad Ali Hasnain {
-  // I can, because I will.
+  // Univeristy of Waterloo, Currently @ Democracy Labs
   // Transforming visions into pixel-perfect reality.
   constructor() {
     this.name = 'Muhammad Ali Hasnain';
@@ -20,6 +20,7 @@ class Muhammad Ali Hasnain {
 ```javascript
   workExperience() {
     return [
+      { 'Oct.2023 - PRESENT' : 'FrontEnd Developer at DemocracyLabs'},
       { 'Apr.2023 - Aug.2023': 'Web Application Developer at Manulife' },
       { 'Jun.2021 - Sep.2021': 'Software Engineer Intern at AirLink Communcations' },
       { 'Jan.2021 - Oct.2022': 'Mathematics Advisor at PhotoMath' },
@@ -36,6 +37,7 @@ class Muhammad Ali Hasnain {
       {
         '2022-2026':
         "Univeristy of Waterloo"
+        *"GPA: 3.71/4.00"*
           "Bachelors Degree (bsc), Computer Science (IT)"
       },
       {
