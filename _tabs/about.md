@@ -4,6 +4,9 @@ icon: fas fa-info-circle
 order: 1
 ---
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="100" height="100" />
+
+
 ```javascript
 class Muhammad Ali Hasnain {
   // Univeristy of Waterloo, Currently @ Democracy Labs
