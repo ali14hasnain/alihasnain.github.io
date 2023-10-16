@@ -1,6 +1,6 @@
 ---
 title: Enhanced Excel Plotter 📈
-date: 2023-09-22T10:00:00-0400
+date: 2023-10-16T10:00:00-0400
 categories: [Projects, Python]
 tags: [Python, Github, Streamlit]
 author: <author_id>   # TAG names should always be lowercase

@@ -1,6 +1,6 @@
 ---
 title: CoachAI 🚀
-date: 2023-09-22T10:00:00-0400
+date: 2023-09-28T10:00:00-0400
 categories: [Projects, Python]
 tags: [Python, GitHub, OpenAI, API]
 author: <author_id>   # TAG names should always be lowercase

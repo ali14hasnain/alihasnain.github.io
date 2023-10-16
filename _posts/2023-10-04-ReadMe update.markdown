@@ -1,6 +1,6 @@
 ---
 title: Github Profile Update 🌟
-date: 2023-09-22T10:00:00-0400
+date: 2023-10-4T10:00:00-0400
 categories: [Portfolio]
 tags: [Markdown]
 author: <author_id>   # TAG names should always be lowercase
