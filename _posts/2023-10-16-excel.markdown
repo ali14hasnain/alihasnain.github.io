@@ -9,7 +9,7 @@ author: <author_id>   # TAG names should always be lowercase
 
 Hello everyone!
 
-Today, I'm thrilled to introduce a new tool I've been working on: the **Enhanced Excel Plotter**. This interactive web application is designed to make data visualization from Excel files a breeze. Whether you're a data analyst, a student, or someone who just loves playing around with numbers, this tool is for you!
+Today, I'm thrilled to introduce a new tool I've been working on: the [Enhanced Excel Plotter](https://github.com/ali14hasnain/datavisualisation). This interactive web application is designed to make data visualization from Excel files a breeze. Whether you're a data analyst, a student, or someone who just loves playing around with numbers, this tool is for you!
 
 ### 🌟 Features
 
@@ -32,6 +32,12 @@ Today, I'm thrilled to introduce a new tool I've been working on: the **Enhanced
     <img src="https://img.youtube.com/vi/k50l59vG77Y/0.jpg" alt="Video Thumbnail">
   </a>
 </p>
+
+### 📂 Source Code
+
+For those interested in the technical details or looking to contribute, you can find the complete source code for the Enhanced Excel Plotter on GitHub:
+
+[Enhanced Excel Plotter GitHub Repository](https://github.com/ali14hasnain/datavisualisation)
 
 
 ### 🛠️ Technologies Behind the Scenes
