@@ -1,0 +1,49 @@
+---
+title: Enhanced Excel Plotter 📈
+date: 2023-09-22T10:00:00-0400
+categories: [Projects, Python]
+tags: [Python, Github, Streamlit]
+author: <author_id>   # TAG names should always be lowercase
+---
+## Introducing the Enhanced Excel Plotter 📈
+
+Hello everyone!
+
+Today, I'm thrilled to introduce a new tool I've been working on: the **Enhanced Excel Plotter**. This interactive web application is designed to make data visualization from Excel files a breeze. Whether you're a data analyst, a student, or someone who just loves playing around with numbers, this tool is for you!
+
+### 🌟 Features
+
+- **Excel File Upload**: Gone are the days of manually entering data. With the Enhanced Excel Plotter, you can simply upload your Excel file and instantly view its contents in a clean, tabular format.
+
+- **Interactive Data Visualization**: Choose a column for analysis, and the tool will generate a vibrant bar chart, showcasing data in a visually appealing manner. The color-coded bars make it easy to discern patterns and insights at a glance.
+
+- **Downloads**: Need to share your findings? You can download the grouped data as an Excel file or even the visualized plot as an HTML file, making it easier than ever to share your insights with others.
+
+
+### 🚀 How It Works
+
+1. **Upload Your Excel File**: Simply drag and drop your `.xlsx` file into the app.
+2. **Choose a Column for Analysis**: Select a column (e.g., 'Ship Mode', 'Segment', 'Category', 'Sub-Category') to base your analysis on.
+3. **View and Interact**: The app will generate a bar chart based on your selection. Hover over the bars to get detailed insights.
+4. **Download**: With a single click, download the visualized data or the entire plot.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=k50l59vG77Y">
+    <img src="https://img.youtube.com/vi/k50l59vG77Y/0.jpg" alt="Video Thumbnail">
+  </a>
+</p>
+
+
+### 🛠️ Technologies Behind the Scenes
+
+The Enhanced Excel Plotter is built using some of the latest and greatest technologies:
+
+- [Streamlit](https://streamlit.io/) - An open-source app framework for Machine Learning and Data Science projects.
+- [Pandas](https://pandas.pydata.org/) - A powerful data analysis and manipulation library.
+- [Plotly](https://plotly.com/) - A graphing library that makes interactive, publication-quality graphs online.
+
+### Wrapping Up
+
+I'm incredibly excited to share the Enhanced Excel Plotter with all of you. It's been a labor of love, and I hope it proves useful in your data visualization endeavors. Give it a try, and let me know your feedback. Your insights will be invaluable in refining and enhancing the tool further.
+
+Happy plotting!
