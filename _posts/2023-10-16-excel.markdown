@@ -27,11 +27,9 @@ Today, I'm thrilled to introduce a new tool I've been working on: the [Enhanced 
 3. **View and Interact**: The app will generate a bar chart based on your selection. Hover over the bars to get detailed insights.
 4. **Download**: With a single click, download the visualized data or the entire plot.
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=k50l59vG77Y">
-    <img src="https://img.youtube.com/vi/k50l59vG77Y/0.jpg" alt="Video Thumbnail">
-  </a>
-</p>
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/k50l59vG77Y/mqdefault.jpg)](https://www.youtube.com/watch?v=k50l59vG77Y)
+
+
 
 ### 📂 Source Code
 
